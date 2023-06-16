@@ -1,0 +1,17 @@
+<!doctype HTML>
+<html>
+
+<head>
+<link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<p>This is a subparagraph.</p>
+<img src="Daco_1536236.png" alt="This is a test image" height="420" width="420">
+
+
+
+</body>
+</html>

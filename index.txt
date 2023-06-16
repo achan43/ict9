@@ -1,0 +1,22 @@
+<!doctype HTML>
+<html>
+
+<head>
+<link rel"stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<h1>My Most Amazing Website.</h1>
+<h2>This is just the beginning!</h2>
+
+
+<a href="/page2.html">Page2</a>
+
+<img src="Daco_1536236.png" alt="This is a test image" height="420" width="420">
+
+
+
+</body>
+</html>
